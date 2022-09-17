@@ -2,7 +2,7 @@
 
 <b> The alt Attribute : </b>
     <p>The required alt attribute for the img tag specifies an alternate text for an image, if the image for some reason cannot be displayed. This can be due to a slow connection, or an error in the src attribute, or if the user uses a screen reader.</p>
-   <img src="images\Quotefancy-82356-3840x2160.jpg" alt="samuel beckett">
+   <img src="/images\Quotefancy-82356-3840x2160.jpg" alt="samuel beckett">
 
 <b>The href Attribute :</b>
 HTML links are defined with the a tag. The link address is specified in the href attribute.
@@ -33,4 +33,4 @@ Note :-The value of the title attribute will be displayed as a tooltip when you 
         
 <b>The width and height Attribute :- </b>
 
-<img src = "images\Quotefancy-206645-3840x2160.jpg" width ="300px" height = "150px">
+<img src = "/images\Quotefancy-206645-3840x2160.jpg" height = "150px">
