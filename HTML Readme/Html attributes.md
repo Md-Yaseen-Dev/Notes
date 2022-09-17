@@ -7,7 +7,7 @@
 <b>The href Attribute :</b>
 HTML links are defined with the a tag. The link address is specified in the href attribute.
 
-*For example the link given below:-*
+*For example visit the link given below:-*
 <a href ="https://www.w3schools.com">vist w3school link</a>
 
 <b> The lang Attribute:- </b>
