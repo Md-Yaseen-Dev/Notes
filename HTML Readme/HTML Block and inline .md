@@ -16,7 +16,6 @@ _for example :-_
 `<p> This paragraph is a block-level element; its background has been colored to display the paragraph's parent element.</p>`
 
 ## For more block elements visit :-
-
 [mdn web docs\_](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
 
 # Inline-level Element
