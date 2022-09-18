@@ -1,8 +1,14 @@
 ## HTML Block and Inline Elements
-
-<b>Block-level Element :-</b>
 A block- level element always starts on a new line, and the browsers automaticallly add some spaces before and after element.
+
+### Bold element
+b tag is used for bold the text
 _for example :-_
+```HTML
+<b>Block-level Element :-</b>
+```
+<b>Block-level Element :-</b>
+
 
 `<p> This paragraph is a block-level element; its background has been colored to display the paragraph's parent element.</p>`
 
