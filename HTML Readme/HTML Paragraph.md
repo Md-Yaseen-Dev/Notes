@@ -28,5 +28,18 @@ _As shown below_ :-
 ```  
 ## Horizontal Tag :-
 
- The <hr> tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.
-The <hr> element is used to separate content (or define a change) in an HTML page: 
+ The hr tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.
+
+The hr element is used to separate content (or define a change) in an HTML page.
+
+_for Example_ :-
+
+```HTML
+<h1>Heading1</h1>
+<p>This is some text </p> 
+<hr>
+```
+```html
+<h2>Heading2</h2>
+<p>This is other text</p>
+```
