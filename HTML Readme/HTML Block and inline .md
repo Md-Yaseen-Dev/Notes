@@ -16,7 +16,7 @@ _for example :-_
 
 [mdn web docs\_](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements)
 
-<b>Inline-level Element :- </b>
+##Inline-level Element :- </b>
 An inline element does not start on a new line.
 An inline element only takes up as much width as necessary.
 This is a span element inside a paragraph.
