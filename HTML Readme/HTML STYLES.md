@@ -63,5 +63,8 @@ The Css color property defines the text color for an HTML element
 
 The Css font-size property defines the text size for an HTML element
 
+```html
 <h1 style="font-size: 30px;">>This is a heading</h1>
 <p style="font-size : 500%;">This is a paragraph.</p>
+```
+
