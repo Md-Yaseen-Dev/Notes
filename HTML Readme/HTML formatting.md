@@ -95,3 +95,12 @@ normal line, and is sometimes rendered in a smaller font. Superscript text can b
 
 <p>(a + b)<sup>2</sup> = a <sup>2</sup> + b <sup>2</sup> + 2ab</p>
 ```
+
+## HTML Delete Element
+
+The HTML `<del>` element defines text that has been deleted from a document. Browsers will usually strike a line through deleted text
+
+```html
+<p></p>
+<p>My favorite color is <del>blue</del> red.</p>
+```
