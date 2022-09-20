@@ -67,3 +67,7 @@ The Css font-size property defines the text size for an HTML element
 <h1 style="font-size: 30px;">>This is a heading</h1>
 <p style="font-size : 500%;">This is a paragraph.</p>
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 35ed7eaf3453f1481daa938530bf269e5043e8ae
