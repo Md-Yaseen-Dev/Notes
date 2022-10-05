@@ -110,7 +110,7 @@ footer {
 </html>
 
 ```
-![layout](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.sqlauthority.com%2Fi%2Fd%2Fchangetohttps3.jpg&imgrefurl=https%3A%2F%2Fblog.sqlauthority.com%2F2017%2F03%2F16%2Fwordpress-move-http-https-simple-complete-tutorial%2F&tbnid=Der7nnCey1FMuM&vet=12ahUKEwjBycGG3cT6AhWyidgFHRCZC5QQMygAegUIARCyAQ..i&docid=3pKkwhE59VKfOM&w=823&h=357&q=how%20to%20change%20http%20to%20https&ved=2ahUKEwjBycGG3cT6AhWyidgFHRCZC5QQMygAegUIARCyAQ)
+![layout]()
 ## HTML Layout Elements
 
 HTML has several semantic elements that define the different parts of a web page:
